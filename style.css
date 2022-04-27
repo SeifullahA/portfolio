@@ -9,7 +9,7 @@ body{
 }
 
 .font-primary{
-    color: #00ABAE;
+    color: #4646f8;
 }
 
 .title-icon{
@@ -22,7 +22,7 @@ p{
 }
 
 h2{
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 23px;
     margin-bottom: 20px;
 }
@@ -61,7 +61,7 @@ ABOUT
 
 #about .skills{
     font-size: 15px;
-    color: #00ABAE;
+    color: #4646f8;
     margin-bottom: 10px;
 }
 
@@ -85,19 +85,19 @@ PROJECT
 
 ***************/
 
-#project{
+#projects{
     margin: 60px auto;
     width: 80%;
 }
 
-#project h2{
+#projects h2{
     text-align: center;
 }
 
-#project .card{
+#projects .card{
     width: 100%;
 }
 
-#project .card-title{
+#projects .card-title{
     font-weight: bold;
 }
